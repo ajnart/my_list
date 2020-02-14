@@ -1,0 +1,6 @@
+/build
+*.lock
+.dart_tool
+.idea
+.vscode
+/android
